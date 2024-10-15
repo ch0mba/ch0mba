@@ -10,7 +10,7 @@
 
 - 👨‍💻 IT enthusiast with a deep passion for continuous learning and staying at the forefront of technology.
 
-- 🔭 I’m currently working on **customer relationship managment software**
+- 🔭 I’m currently working on **production managment system**
 
 - 🌱 I’m currently learning **Laravel**
 
